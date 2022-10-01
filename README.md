@@ -3,7 +3,7 @@
 I'm Prashant, 
 
 - 🔭 I’m currently working on Salesforce Platform and its various technologies such as LWC, Apex. 
-- 🌱 I’m currently learning a lot dur to my curiosity. 
+- 🌱 I’m currently learning a lot due to my curiosity. 
 - 👯 I’m looking to collaborate on some ideas that I have and on any of the Open source projects. 
 - 🤔 I’m looking for help with understanding various Open Source project implementations. 
 - 💬 Ask me about Apex, Visualforce, Javascript, LWC, Salesforce etc. 
